@@ -15,6 +15,24 @@ body{
     font-weight: 900;
 }
 
+.material-icons{
+    color: gray;
+    opacity: 0.8;
+}
+
+.darkmode{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+
+.togdark{
+    background-color: white;
+    color: black;
+}
+
+
 .spacer{
     height: 25px;
 }
@@ -50,10 +68,12 @@ body{
 .Disc{
     background-image: url(Assets/lel.jpg);
     background-size: cover;
+    color: white;
 }
 
 .discord{
 margin: 10px;
+
 }
 
 .discord img{
