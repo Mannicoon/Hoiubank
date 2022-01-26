@@ -15,6 +15,24 @@ body{
     font-weight: 900;
 }
 
+.material-icons{
+    color: black;
+    opacity: 0.8;
+}
+
+.darkmode{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+
+.togdark{
+    background-color: white;
+    color: black;
+}
+
+
 .spacer{
     height: 25px;
 }
