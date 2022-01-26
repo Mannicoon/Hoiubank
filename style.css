@@ -68,10 +68,12 @@ body{
 .Disc{
     background-image: url(Assets/lel.jpg);
     background-size: cover;
+    color: white;
 }
 
 .discord{
 margin: 10px;
+
 }
 
 .discord img{
